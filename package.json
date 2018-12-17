@@ -1,0 +1,28 @@
+{
+  "name": "sfr-koa-router-policy",
+  "version": "0.0.1",
+  "description": "router policy for koa web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkinfeng/sfr-koa-router-policy.git"
+  },
+  "keywords": [],
+  "author": "Jkin.feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkinfeng/sfr-koa-router-policy/issues"
+  },
+  "homepage": "https://github.com/jkinfeng/sfr-koa-router-policy#readme",
+  "dependencies": {
+    "sfr-file-autoscan": "0.0.5"
+  },
+  "devDependencies": {
+    "sfr-koa": "^2.6.2",
+    "sfr-koa-router": "^7.4.0",
+    "sfr-koa-routerscan": "0.0.3"
+  }
+}
